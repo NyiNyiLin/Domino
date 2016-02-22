@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:src="@drawable/domino_font_page"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developed By\n        Nyi Nyi Lin\n       09254126854"
+        android:textSize="@dimen/text_size_in_about_us"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="      nyinyilinyu@gmail.com"
+        android:autoLink="email"
+        android:textSize="@dimen/text_size_in_about_us"/>
+
+</LinearLayout>

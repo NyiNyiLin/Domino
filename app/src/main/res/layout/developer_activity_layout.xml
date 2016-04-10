@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="      nyinyilinyu1@gmail.com"
+        android:text="      nyinyilinyu@gmail.com"
         android:autoLink="email"
         android:textSize="@dimen/text_size_in_about_us"/>
 
